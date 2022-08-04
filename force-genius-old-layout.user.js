@@ -15,7 +15,9 @@
 
 
 (() => {
-  console.log(`Force old genius.com layout by Sv443\n${GM.info.script.namespace}`);
+  const info = GM.info.script;
+  console.info(`${info.name} by ${info.author} - ${info.namespace}`);
+
   const { href, search } = location;
 
   if(search.includes("react=1"))
