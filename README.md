@@ -3,7 +3,8 @@ genius.com now automatically switches back to the new layout every single time t
 This Userscript enforces the old layout for genius lyrics pages
 
 ### Installation:
-1. Install a userscript manager extension  
+1. Install a userscript manager extension
+  
     > Firefox: [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/), [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)  
     > Chrome: [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag), [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
     > Edge: [ViolentMonkey](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao), [TamperMonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
